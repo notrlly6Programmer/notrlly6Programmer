@@ -4,7 +4,24 @@
 <h1>How I came into Web-Development😁🙌</h1>
 <br><br>
 
-<h4>I come from Eastern-Europe and live in Middle Europe near Switzerland and Germany Basel I would say, and I started coding like in January. MY interest was Cybersecurity, however to get in Cyber-sec I had to do one of the two Carrers, as a Application developer or Web-Developer, and I started off just with no interest whatsoever, but then I actually started to get really interested  in Web-Development. I never knew it would be this much Fun learning new Languages and using them to make a Website in my Interest. SO I started locking in and had my first personal Project of a website It went well, nothing crazy just a Basic website with html and css. Which actually made me even more interested in IT and Programming and thanks to the Knownledge of Web-Development, I actually started to understand the "Hard Stuff" which were the Basic stuff in Cyber-sec, just a little Info about my Interest in Cybersec, I like doing stuff with the Flipper Zero I have, Radio Frequiences, Evil Twin Attacks, Bruteforce, BAD USB, BAD KB, RF-Jammer just to test if I have any weak spots in my Home Network and demonstrate real attacks and study them myself to better secure them.</h4>
+<h4>I come from Eastern-Europe and live in 
+Middle Europe near Switzerland and Germany Basel 
+I would say, and I started coding like 
+in January. MY interest was 
+Cybersecurity, however to get 
+in Cyber-sec I had to do one 
+of the two Carrers, as a 
+Application developer or 
+Web-Developer, and I started
+off just with no interest 
+whatsoever, but then I actually 
+started to get really interested  
+in Web-Development.<br) I never knew 
+it would be this much Fun learning 
+new Languages and using them to make 
+a Website in my Interest. SO I started locking in and had my first personal Project of a website It went well, nothing crazy just a Basic website with html and css. Which actually made me even more interested in IT and Programming and thanks to the Knownledge of Web-Development, I actually started to understand the "Hard Stuff" which were the Basic stuff in Cyber-sec, just a little Info about my Interest in Cybersec, I like doing stuff with the Flipper Zero I have, Radio Frequiences, Evil Twin Attacks, Bruteforce, BAD USB, BAD KB, RF-Jammer just to test if I have any weak spots in my Home Network and demonstrate 
+real attacks and study them 
+myself to better secure them.</h4>
 
 
 <p>am a little Introverted but am happy to talk. If you are a Fullstack developer too, then maybe we can exchange Ideas =.=</p>
