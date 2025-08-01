@@ -10,7 +10,6 @@
 
 <p>am a little Introverted but am happy to talk. If you are a Fullstack developer too, then maybe we can exchange Ideas =.=</p>
 
-<h3>My Twitter is @SHAD0W2402 and I post sometimes not reguarlly since am very busy coding but am happy to share any content and connect with other Developers:P</h3>
 
 
 <h1>thats it, thanks you for reading my README and visiting my Profile!
