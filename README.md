@@ -13,7 +13,7 @@
 
 
 
-<h1>thats it, thanks you for reading my README and visiting my Profile!
+<h1>thats it, thank you for reading my README and visiting my Profile!
 CYAAA</h1
 
 
